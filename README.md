@@ -1,3 +1,6 @@
+# Do que se trata?
+Pagina simples que consome API de frases do Kanye West, um dos meus rappers favoritos!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
