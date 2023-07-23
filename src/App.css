@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.kanyeImg{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+.botaoGerar{
+  border-radius: 15px;
+  font-size: 23px;
+  border-width: 2;
+  border-color: #fff;
+  background-color: #282c34;
+  color: #fff;
+}
